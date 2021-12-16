@@ -28,4 +28,6 @@ The application will be available at:
 For more help see the Apache Camel documentation
 
     http://camel.apache.org/
+    
+    for more movies 
 
